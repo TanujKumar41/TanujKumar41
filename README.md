@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanujkumar41" alt="tanujkumar41" /></a> </p>
 
-- 🔭 I’m currently working on **chess learning website**
+- 🔭 I’m currently working on **freelancing website**
 
 - 💬 Ask me about **nextJS**
 
